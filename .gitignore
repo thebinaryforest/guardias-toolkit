@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# eez_polygons: raw WFS download written by make_polygons.py
+eez_polygons/eez_land_wider_europe_raw.geojson
